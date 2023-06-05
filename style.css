@@ -1,0 +1,27 @@
+h1 {
+  margin-top: 30vh;
+  text-align: center;
+  color: darkmagenta;
+}
+.add-item {
+  text-align: center;
+}
+#btn,
+#delete {
+  padding: 5px;
+  color: white;
+  background-color: deeppink;
+}
+#input {
+  padding: 5px;
+}
+#sil {
+  display: inline-block;
+  /* text-align: center; */
+}
+main {
+  text-align: center;
+}
+body {
+  background-color: rgb(192, 181, 181);
+}
